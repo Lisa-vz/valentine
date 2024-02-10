@@ -1,0 +1,67 @@
+body{
+	background-color: pink;
+}
+
+#page-container{
+
+}
+
+video{
+  width: 100%;
+  height: auto;
+}
+
+#gif-container{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 20px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+#container{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 20px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+#container{
+	 box-shadow: 5px 5px 5px 5px #FFFFFF;
+}
+
+#container:hover{
+	box-shadow: 5px 5px 5px 5px darkred;
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 20px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+
+p{
+	font-family: christie;
+	font-size: 40px;
+}
+
+
+
+
+button{
+	font-family: bangle;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+}
+
+button:hover{
+	background-color: grey;
+}
